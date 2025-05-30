@@ -5,7 +5,7 @@ import '../assets/styles/Main.scss';
 
 function Main() {
   useEffect(() => {
-    document.title = "Shalini Singh | Portfolio";
+    document.title = "Shreyash Singh | Portfolio";
   }, []);
 
   return (
@@ -16,13 +16,13 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/shalinisingh1211" target="_blank" rel="noreferrer"><GitHubIcon /></a>
+            <a href="https://github.com/syash689" target="_blank" rel="noreferrer"><GitHubIcon /></a>
           </div>
-          <h1>Shalini Singh</h1>
+          <h1>Shreyash Singh</h1>
           <p>3rd Year, CSE (AI)</p>
-          <p>CGPA: 9.60</p>
+          <p>CGPA: 9.68</p>
           <div className="mobile_social_icons">
-            <a href="https://github.com/shalinisingh1211" target="_blank" rel="noreferrer"><GitHubIcon /></a>
+            <a href="https://github.com/syash689" target="_blank" rel="noreferrer"><GitHubIcon /></a>
           </div>
         </div>
       </div>

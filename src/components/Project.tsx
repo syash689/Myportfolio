@@ -28,9 +28,9 @@ function Project() {
                 <p>Built an AI-assisted project risk management system to analyze and report risks across multipleprojects. Used SpaCy for natural language query parsing and Hugging Face models for generating riskmitigation suggestions. Implemented a document upload pipeline with versioned changelog storage.Integrated a Streamlit-based chatbot to answer project-specific risk queries using stored metrics andLLM-based fallback.</p>
             </div>
             <div className="project">
-              <h2>YogaWise</h2>
-              <h3>Flask, Python, PostgreSQL, JavaScript, HTML,CSS, Bootstrap 5, OpenCV, MediaPipe</h3>
-              <p>Developed YogaWise, a wellness platform that offers personalized yoga plans based on BMI, age,gender, health conditions, and fitness goals. It features real-time pose detection using MediaPipeand TensorFlow, a BMI calculator, health condition and fitness goal tracking, and a smartrecommendation engine for tailored yoga, breathing, diet, and lifestyle guidance.</p>
+              <h2>CrickPredict</h2>
+              <h3>| Python, Scikit-Learn, Flask</h3>
+              <p>Trained a machine learning model on past cricket match data to predict real-time match outcomes,utilizing statistical features like team performance, player form, and match conditions; deployed aFlask-based API for seamless integration, achieving an accuracy of 84% in win predictions.</p>
             </div>
         </div>
     </div>

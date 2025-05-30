@@ -7,9 +7,9 @@ function Footer() {
   return (
     <footer>
       <div>
-        <a href="https://github.com/shalinisingh1211" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+        <a href="https://github.com/syash689" target="_blank" rel="noreferrer"><GitHubIcon/></a>
       </div>
-      <p>A portfolio designed & built by <a href="https://github.com/shalinisingh1211/portfolion" target="_blank" rel="noreferrer">Shalini Singh</a> with 💜</p>
+      <p>A portfolio designed & built by <a href="https://github.com/syash689/Myportfolio" target="_blank" rel="noreferrer">Shreyash Singh</a> with 💜</p>
     </footer>
   );
 }
